@@ -1,0 +1,52 @@
+/* Write your code here. */
+.green-container {
+  background-image: linear-gradient(to right, #219a6f, #1d976c, #93f9b9);
+  height: 100vh;
+  background-size: cover;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.things-container {
+  display: flex;
+  justify-content: space-between;
+}
+.text-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+}
+.search-bar {
+  background-color: #219a6f, #1d976c, #93f9b9;
+  border: 1px solid #e4e7eb;
+  color: grey;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 15px;
+  width: 300px;
+}
+.label {
+  color: #ffffff;
+  font-size: 10px;
+  margin-top: 10px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+}
+.para {
+  background-color: #ffffff;
+  padding: 15px;
+  color: #219a6f;
+  font-weight: 800;
+  border-radius: 10px;
+  width: 200px;
+}
+.cal-image {
+  height: 400px;
+  width: 400px;
+  justify-content: flex-end;
+  margin-left: 100px;
+}
